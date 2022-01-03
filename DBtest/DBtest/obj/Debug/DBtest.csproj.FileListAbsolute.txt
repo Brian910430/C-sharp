@@ -1,0 +1,12 @@
+C:\Users\brian\OneDrive\桌面\DBtest\DBtest\bin\Debug\Database1.mdf
+C:\Users\brian\OneDrive\桌面\DBtest\DBtest\bin\Debug\Database1_log.ldf
+C:\Users\brian\OneDrive\桌面\DBtest\DBtest\bin\Debug\DBtest.exe.config
+C:\Users\brian\OneDrive\桌面\DBtest\DBtest\bin\Debug\DBtest.exe
+C:\Users\brian\OneDrive\桌面\DBtest\DBtest\bin\Debug\DBtest.pdb
+C:\Users\brian\OneDrive\桌面\DBtest\DBtest\obj\Debug\DBtest.csprojAssemblyReference.cache
+C:\Users\brian\OneDrive\桌面\DBtest\DBtest\obj\Debug\DBtest.Form1.resources
+C:\Users\brian\OneDrive\桌面\DBtest\DBtest\obj\Debug\DBtest.Properties.Resources.resources
+C:\Users\brian\OneDrive\桌面\DBtest\DBtest\obj\Debug\DBtest.csproj.GenerateResource.cache
+C:\Users\brian\OneDrive\桌面\DBtest\DBtest\obj\Debug\DBtest.csproj.CoreCompileInputs.cache
+C:\Users\brian\OneDrive\桌面\DBtest\DBtest\obj\Debug\DBtest.exe
+C:\Users\brian\OneDrive\桌面\DBtest\DBtest\obj\Debug\DBtest.pdb

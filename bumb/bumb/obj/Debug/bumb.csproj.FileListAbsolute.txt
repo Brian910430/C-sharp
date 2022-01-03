@@ -1,0 +1,7 @@
+C:\Users\brian\OneDrive\桌面\pro\視窗\bumb\bumb\bin\Debug\bumb.exe.config
+C:\Users\brian\OneDrive\桌面\pro\視窗\bumb\bumb\bin\Debug\bumb.exe
+C:\Users\brian\OneDrive\桌面\pro\視窗\bumb\bumb\bin\Debug\bumb.pdb
+C:\Users\brian\OneDrive\桌面\pro\視窗\bumb\bumb\obj\Debug\bumb.csprojAssemblyReference.cache
+C:\Users\brian\OneDrive\桌面\pro\視窗\bumb\bumb\obj\Debug\bumb.csproj.CoreCompileInputs.cache
+C:\Users\brian\OneDrive\桌面\pro\視窗\bumb\bumb\obj\Debug\bumb.exe
+C:\Users\brian\OneDrive\桌面\pro\視窗\bumb\bumb\obj\Debug\bumb.pdb

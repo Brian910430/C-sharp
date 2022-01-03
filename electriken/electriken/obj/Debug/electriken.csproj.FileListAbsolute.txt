@@ -1,0 +1,10 @@
+C:\Users\brian\OneDrive\桌面\pro\視窗\electriken\electriken\bin\Debug\electriken.exe.config
+C:\Users\brian\OneDrive\桌面\pro\視窗\electriken\electriken\bin\Debug\electriken.exe
+C:\Users\brian\OneDrive\桌面\pro\視窗\electriken\electriken\bin\Debug\electriken.pdb
+C:\Users\brian\OneDrive\桌面\pro\視窗\electriken\electriken\obj\Debug\electriken.csprojAssemblyReference.cache
+C:\Users\brian\OneDrive\桌面\pro\視窗\electriken\electriken\obj\Debug\electriken.Form1.resources
+C:\Users\brian\OneDrive\桌面\pro\視窗\electriken\electriken\obj\Debug\electriken.Properties.Resources.resources
+C:\Users\brian\OneDrive\桌面\pro\視窗\electriken\electriken\obj\Debug\electriken.csproj.GenerateResource.cache
+C:\Users\brian\OneDrive\桌面\pro\視窗\electriken\electriken\obj\Debug\electriken.csproj.CoreCompileInputs.cache
+C:\Users\brian\OneDrive\桌面\pro\視窗\electriken\electriken\obj\Debug\electriken.exe
+C:\Users\brian\OneDrive\桌面\pro\視窗\electriken\electriken\obj\Debug\electriken.pdb
