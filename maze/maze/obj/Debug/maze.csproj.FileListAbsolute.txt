@@ -1,0 +1,7 @@
+C:\Users\brian\OneDrive\桌面\pro\視窗\maze\maze\bin\Debug\maze.exe.config
+C:\Users\brian\OneDrive\桌面\pro\視窗\maze\maze\bin\Debug\maze.exe
+C:\Users\brian\OneDrive\桌面\pro\視窗\maze\maze\bin\Debug\maze.pdb
+C:\Users\brian\OneDrive\桌面\pro\視窗\maze\maze\obj\Debug\maze.csprojAssemblyReference.cache
+C:\Users\brian\OneDrive\桌面\pro\視窗\maze\maze\obj\Debug\maze.csproj.CoreCompileInputs.cache
+C:\Users\brian\OneDrive\桌面\pro\視窗\maze\maze\obj\Debug\maze.exe
+C:\Users\brian\OneDrive\桌面\pro\視窗\maze\maze\obj\Debug\maze.pdb
